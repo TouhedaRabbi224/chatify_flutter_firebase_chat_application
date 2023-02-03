@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816324453292",
+    "project_id": "chatifyudemy",
+    "storage_bucket": "chatifyudemy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816324453292:android:a4cc6b7728ebc9fb67d009",
+        "android_client_info": {
+          "package_name": "com.example.chatify_udemy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816324453292-v1jg9kjn48hbmt6726c9o0elrbskbrvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEhY9o5LSIhCkqK6IHCU4_btVVLadxUis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816324453292-v1jg9kjn48hbmt6726c9o0elrbskbrvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
